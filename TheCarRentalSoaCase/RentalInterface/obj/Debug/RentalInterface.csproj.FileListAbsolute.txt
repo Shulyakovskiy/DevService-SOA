@@ -1,0 +1,4 @@
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\RentalInterface\bin\Debug\RentalInterface.dll
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\RentalInterface\bin\Debug\RentalInterface.pdb
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\RentalInterface\obj\Debug\RentalInterface.dll
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\RentalInterface\obj\Debug\RentalInterface.pdb

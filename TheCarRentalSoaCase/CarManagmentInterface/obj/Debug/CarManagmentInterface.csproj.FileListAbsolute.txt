@@ -1,0 +1,5 @@
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CarManagmentInterface\bin\Debug\CarManagmentInterface.dll
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CarManagmentInterface\bin\Debug\CarManagmentInterface.pdb
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CarManagmentInterface\obj\Debug\CarManagmentInterface.csprojResolveAssemblyReference.cache
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CarManagmentInterface\obj\Debug\CarManagmentInterface.dll
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CarManagmentInterface\obj\Debug\CarManagmentInterface.pdb

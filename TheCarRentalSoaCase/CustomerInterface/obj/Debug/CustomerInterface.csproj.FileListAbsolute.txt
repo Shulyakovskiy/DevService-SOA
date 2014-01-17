@@ -1,0 +1,5 @@
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CustomerInterface\bin\Debug\CustomerInterface.dll
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CustomerInterface\bin\Debug\CustomerInterface.pdb
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CustomerInterface\obj\Debug\CustomerInterface.csprojResolveAssemblyReference.cache
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CustomerInterface\obj\Debug\CustomerInterface.dll
+H:\SRCDeveloper\DEVELOPER\4.2-WCF  Book and Unity\Developer\TheCarRentalSoaCase\CustomerInterface\obj\Debug\CustomerInterface.pdb
